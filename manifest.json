@@ -1,0 +1,27 @@
+{
+    "background_color": "#ffffff",
+    "description": "DemoApp",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "anuragvohraec.github",
+    "orientation": "portrait",
+    "scope": "/organic-farm-website-template/",
+    "short_name": "anuragvohraec.github",
+    "start_url": "/organic-farm-website-template/",
+    "theme_color": "#e13690",
+    "categories": [],
+    "screenshots": [],
+    "icons": [{
+        "src": "/organic-farm-website-template/img/android-icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "density": "3.0"
+    },
+    {
+        "src": "/organic-farm-website-template/img/android-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "density": "3.0"
+    }],
+    "shortcuts": []
+}

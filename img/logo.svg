@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640.4386"
+   height="636.80334"
+   viewBox="0 0 169.44937 168.48756"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/anurag/Documents/freelancing/projects/course_suggestion_demo/img/android-icon-512x512.png"
+   inkscape:export-xdpi="423.32999"
+   inkscape:export-ydpi="423.32999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="360px"
+     showborder="false"
+     inkscape:zoom="0.51717104"
+     inkscape:cx="363.5161"
+     inkscape:cy="213.66239"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g845" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1283">
+      <stop
+         style="stop-color:#ff27c6;stop-opacity:1;"
+         offset="0"
+         id="stop1279" />
+      <stop
+         style="stop-color:#ffd027;stop-opacity:1"
+         offset="1"
+         id="stop1281" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1283"
+       id="linearGradient1285"
+       x1="49.044842"
+       y1="80.534321"
+       x2="83.40323"
+       y2="80.534321"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.117051,67.791551)">
+    <g
+       id="g845"
+       transform="matrix(4.8709443,0,0,4.8709443,-254.96622,-375.82594)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <path
+         style="fill:url(#linearGradient1285);fill-opacity:1;stroke:#ffffff;stroke-width:1.49704032;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 76.652266,97.485692 c 0.05689,-0.0996 0.07623,-0.49011 0.07359,-1.48617 -0.0038,-1.42487 -0.03323,-1.765 -0.447369,-5.16692 -0.468533,-3.848705 -0.514007,-4.816622 -0.250175,-5.324997 0.287745,-0.554452 0.928527,-1.27841 3.954212,-4.467486 2.065483,-2.177022 3.18306,-3.538748 3.388917,-4.129269 0.08386,-0.24057 0.02108,-0.321111 -0.423518,-0.543269 -0.78385,-0.39168 -2.076755,-0.720223 -5.699148,-1.448225 -3.695088,-0.742611 -4.539213,-0.965718 -4.94551,-1.307123 -0.360445,-0.302876 -0.895249,-1.24623 -2.388798,-4.213657 -1.582507,-3.144174 -2.093861,-4.100009 -2.631115,-4.918147 -0.336211,-0.511988 -0.782679,-1.026534 -0.890717,-1.026534 -0.137023,0 -0.668124,0.621228 -1.129385,1.321041 -0.639863,0.970782 -1.041672,1.681091 -2.377736,4.203309 -1.841427,3.476242 -2.329276,4.267227 -2.803141,4.54493 -0.533391,0.312587 -1.344755,0.494246 -5.030005,1.126182 -3.486911,0.597925 -4.842569,0.907898 -5.606666,1.281969 -0.47106,0.230612 -0.488419,0.283622 -0.250879,0.766134 0.389325,0.790831 1.421391,2.054468 4.096538,5.015702 2.40023,2.656917 2.940065,3.361468 3.028957,3.953164 0.0686,0.456611 -0.07454,1.806102 -0.515358,4.858866 -0.230499,1.59624 -0.463658,3.29858 -0.518131,3.78298 -0.119473,1.06241 -0.137588,2.60663 -0.0335,2.85545 0.07047,0.16845 0.08218,0.17245 0.416297,0.14215 0.748513,-0.0679 2.150945,-0.6445 5.325998,-2.18987 3.444132,-1.67633 4.487361,-2.11874 4.996097,-2.11874 0.522795,0 1.526702,0.45127 4.672938,2.10056 2.876965,1.50814 4.123483,2.09293 5.073996,2.38043 0.594644,0.17985 0.814148,0.18167 0.913608,0.008 z"
+         id="path847"
+         sodipodi:nodetypes="ccssssssssssssssssssssscsssccc" />
+    </g>
+  </g>
+</svg>
